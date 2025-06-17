@@ -36,3 +36,4 @@ git clone https://github.com/Soumya-aavega/SlotGame.git
 
 ## 🖼️ Screenshots
 
+![Image Alt](https://github.com/Soumya-aavega/SlotGame/blob/a93492835536f67598858f6886cf301f37550a00/SlotMachine%20Game.png)
